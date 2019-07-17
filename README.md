@@ -1,6 +1,6 @@
 # Flutter Location Tracking in Background
 
-A Flutter application using [geolocation]("https://pub.dev/packages/geolocation") plugin to track the user's location in background and launch a notification using [LocalNotification]("https://pub.dev/packages/local_notifications") plugin.
+A Flutter application using [Geolocation](https://pub.dev/packages/geolocation) plugin to track the user's location in background and launch a notification using [LocalNotification](https://pub.dev/packages/local_notifications) plugin.
 
 ## Getting Started
 
