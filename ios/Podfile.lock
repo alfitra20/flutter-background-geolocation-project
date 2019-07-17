@@ -1,0 +1,28 @@
+PODS:
+  - Flutter (1.0.0)
+  - geolocation (0.0.1):
+    - Flutter
+  - local_notifications (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `/Users/alfitrarahman/Thesis/flutter/bin/cache/artifacts/engine/ios`)
+  - geolocation (from `/Users/alfitrarahman/Thesis/flutter/.pub-cache/hosted/pub.dartlang.org/geolocation-0.2.1/ios`)
+  - local_notifications (from `/Users/alfitrarahman/Thesis/flutter/.pub-cache/hosted/pub.dartlang.org/local_notifications-0.0.7/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: "/Users/alfitrarahman/Thesis/flutter/bin/cache/artifacts/engine/ios"
+  geolocation:
+    :path: "/Users/alfitrarahman/Thesis/flutter/.pub-cache/hosted/pub.dartlang.org/geolocation-0.2.1/ios"
+  local_notifications:
+    :path: "/Users/alfitrarahman/Thesis/flutter/.pub-cache/hosted/pub.dartlang.org/local_notifications-0.0.7/ios"
+
+SPEC CHECKSUMS:
+  Flutter: d674e78c937094a75ac71dd77e921e840bea3dbf
+  geolocation: b696ce6d0af163815dacc7b9c2a9719d61f42210
+  local_notifications: fb69cbbfe0e1d7a1eafaf4f42571c3e95a6de892
+
+PODFILE CHECKSUM: a6e46a0b3c187f869bfffc0150124b1652aef139
+
+COCOAPODS: 1.7.4
